@@ -2,7 +2,6 @@ package Assignment4
 //2. Loops
 //Implement a function sumOfRange(start: Int, end: Int): Int that calculates the sum of numbers in a range.
 class Loops {
-
   def sumOfRange(start: Int, end: Int): Int = {
     (start to end).sum
   }
